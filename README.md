@@ -1,3 +1,5 @@
+[https://coinmetrics.io/the-ethereum-gas-report/#:~:text=Ethereum%20average%20transaction%20fee%20has,for%20most%20of%20the%20year](ETH Gas fees) -- use Cardano
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
